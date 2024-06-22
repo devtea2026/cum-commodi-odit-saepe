@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/cum-commodi-odit-saepe",
-  "version": "6.4.43",
+  "version": "6.4.44",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -76,5 +76,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/cum-commodi-odit-saepe/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
